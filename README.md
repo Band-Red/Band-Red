@@ -1,55 +1,48 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&lines=Hi%2C+I'm+Band-Red+%F0%9F%91%8B;Web+Developer;UI%2FUX+Designer;Security+Focused+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&lines=Fahad+Kaabi;Band-Red;Web+Developer;UI%2FUX+Designer;Security+Focused+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic%2FEnglish-Personal%20Profile-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-Premium%20Developer%20Brand-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-MERN%20Stack-10B981?style=for-the-badge" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/Band-Red.png" width="180" height="180" alt="Band-Red profile" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 35px rgba(139,92,246,0.45);" />
+  <img src="https://github.com/Band-Red.png" width="190" height="190" alt="Fahad Kaabi" style="border-radius:50%; border:3px solid #8B5CF6; box-shadow:0 0 40px rgba(139,92,246,0.5);" />
 </div>
 
-<h2 align="center">أهلاً وسهلاً 👋 / Welcome</h2>
+<h2 align="center">Hello, I'm Fahad Kaabi 👋</h2>
 
 <p align="center">
-  أنا <strong>Band-Red</strong>، مطور ويب أركز على بناء تجارب رقمية حديثة وسريعة وآمنة.<br>
-  I am <strong>Band-Red</strong>, a web developer focused on creating modern, fast, and secure digital experiences.<br>
-  أستمتع بإنشاء واجهات ذكية، حلول قابلة للتوسع، وتجارب مستخدم مريحة ومميزة.
+  I build modern digital experiences with a strong focus on <strong>performance</strong>, <strong>security</strong>, and <strong>clean user experience</strong>.<br>
+  I enjoy turning ideas into elegant, scalable, and practical web solutions.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-MERN%20Stack-FFB86C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-Design%20%7C%20Security%20%7C%20UX-38BDF8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ask%20me-Web%20Development-F472B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Passion-UI%2FUX%20Design-F472B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Performance-38BDF8?style=flat-square" />
 </p>
 
 <hr>
 
-<h2 align="center">من أنا / About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  أعمل على تطوير مشاريع رقمية عملية مع اهتمام خاص بالأداء، الأمان، والتنفيذ الواضح.<br>
-  I build practical digital projects with a strong focus on performance, security, and clean implementation.<br>
-  أتعلم باستمرار وأحب اكتشاف أدوات وتقنيات جديدة لتحسين جودة الحلول التي أقدمها.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Mindset-Problem%20Solver-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚙️%20Focus-Performance-14B8A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/🛡️%20Approach-Security-10B981?style=flat-square" />
+  I'm a web developer who cares about <strong>quality</strong> as much as speed and design.<br>
+  My work blends <strong>front-end creativity</strong> with <strong>technical discipline</strong>, helping me create solutions that are both beautiful and reliable.<br>
+  I’m constantly learning, experimenting, and improving my skill set to build better digital products.
 </p>
 
 <hr>
 
-<h2 align="center">مهاراتي / Skills</h2>
+<h2 align="center">Core Strengths</h2>
 
 <table align="center">
   <tr>
     <td align="center"><strong>🌐</strong><br>Web Development</td>
-    <td align="center"><strong>🎨</strong><br>UI/UX Design</td>
+    <td align="center"><strong>🎨</strong><br>UI / UX Design</td>
     <td align="center"><strong>⚙️</strong><br>Frontend Logic</td>
   </tr>
   <tr>
@@ -61,7 +54,7 @@
 
 <hr>
 
-<h2 align="center">Tech Stack / مختارات التقنية</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,7 +71,7 @@
 
 <hr>
 
-<h2 align="center">إحصاءات GitHub / GitHub Stats</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Band-Red&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=E2E8F0&bg_color=0F172A" alt="GitHub stats" height="180" />
@@ -91,23 +84,17 @@
 
 <hr>
 
-<h2 align="center">تواصل معي / Let's Connect</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/Band-Red" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/fahad-kaabi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <i>“Building ideas with clean code, strong logic, and a creative mind.”</i>
-</p>
-<p align="center">
-  <i>“أبني الأفكار بكود نظيف، منطق قوي، وفكر إبداعي.”</i>
+  <i>“Building ideas with clean code, strong logic, and an artistic eye.”</i>
 </p>
