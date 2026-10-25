@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=Hi%2C+I'm+Band-Red+%F0%9F%91%8B;Web+Developer;UI%2FUX+Designer;Security+Focused+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&lines=Hi%2C+I'm+Band-Red+%F0%9F%91%8B;Web+Developer;UI%2FUX+Designer;Security+Focused+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic%2FEnglish-Profile-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabic%2FEnglish-Personal%20Profile-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-MERN%20Stack-10B981?style=for-the-badge" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/Band-Red.png" width="180" height="180" alt="Band-Red" style="border-radius:50%; border:3px solid #8B5CF6; box-shadow: 0 0 32px rgba(139,92,246,0.45);" />
+  <img src="https://github.com/Band-Red.png" width="180" height="180" alt="Band-Red profile" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 35px rgba(139,92,246,0.45);" />
 </div>
 
 <h2 align="center">أهلاً وسهلاً 👋 / Welcome</h2>
 
 <p align="center">
-  أنا <strong>Band-Red</strong>، مطور ويب ومهتم بتصميم الحلول الرقمية الحديثة.<br>
-  I am <strong>Band-Red</strong>, a web developer focused on building modern, efficient, and secure digital experiences.<br>
-  أركز على الأداء، الأمان، وتجربة المستخدم، وأحب تحويل الأفكار إلى مشاريع عملية ومميزة.
+  أنا <strong>Band-Red</strong>، مطور ويب أركز على بناء تجارب رقمية حديثة وسريعة وآمنة.<br>
+  I am <strong>Band-Red</strong>, a web developer focused on creating modern, fast, and secure digital experiences.<br>
+  أستمتع بإنشاء واجهات ذكية، حلول قابلة للتوسع، وتجارب مستخدم مريحة ومميزة.
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 <h2 align="center">من أنا / About Me</h2>
 
 <p align="center">
-  أعمل على تطوير حلول رقمية عملية، مع اهتمام خاص بالتفاصيل، سرعة الأداء، وتجربة المستخدم.<br>
-  I build practical digital solutions with a strong focus on performance, clean code, and user experience.<br>
-  أستمتع بالتعلم المستمر واستكشاف تقنيات جديدة، خصوصاً في مجال الويب والأمان.
+  أعمل على تطوير مشاريع رقمية عملية مع اهتمام خاص بالأداء، الأمان، والتنفيذ الواضح.<br>
+  I build practical digital projects with a strong focus on performance, security, and clean implementation.<br>
+  أتعلم باستمرار وأحب اكتشاف أدوات وتقنيات جديدة لتحسين جودة الحلول التي أقدمها.
 </p>
 
 <p align="center">
@@ -41,6 +41,23 @@
   <img src="https://img.shields.io/badge/⚙️%20Focus-Performance-14B8A6?style=flat-square" />
   <img src="https://img.shields.io/badge/🛡️%20Approach-Security-10B981?style=flat-square" />
 </p>
+
+<hr>
+
+<h2 align="center">مهاراتي / Skills</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🌐</strong><br>Web Development</td>
+    <td align="center"><strong>🎨</strong><br>UI/UX Design</td>
+    <td align="center"><strong>⚙️</strong><br>Frontend Logic</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛡️</strong><br>Security Awareness</td>
+    <td align="center"><strong>📈</strong><br>Performance Optimization</td>
+    <td align="center"><strong>💡</strong><br>Problem Solving</td>
+  </tr>
+</table>
 
 <hr>
 
@@ -61,24 +78,7 @@
 
 <hr>
 
-<h2 align="center">المهارات / Skills</h2>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>🌐</strong><br>Web Development</td>
-    <td align="center"><strong>🎨</strong><br>UI / UX Design</td>
-    <td align="center"><strong>⚙️</strong><br>Frontend Logic</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🛡️</strong><br>Security Awareness</td>
-    <td align="center"><strong>📈</strong><br>Performance Optimization</td>
-    <td align="center"><strong>💡</strong><br>Problem Solving</td>
-  </tr>
-</table>
-
-<hr>
-
-<h2 align="center">GitHub Statistics / إحصاءات GitHub</h2>
+<h2 align="center">إحصاءات GitHub / GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Band-Red&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=E2E8F0&bg_color=0F172A" alt="GitHub stats" height="180" />
@@ -91,7 +91,7 @@
 
 <hr>
 
-<h2 align="center">Let's Connect / تواصل معي</h2>
+<h2 align="center">تواصل معي / Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/Band-Red" target="_blank">
