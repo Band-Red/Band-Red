@@ -12,11 +12,11 @@
   <img src="https://github.com/Band-Red.png" width="180" height="180" alt="Band-Red" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 35px rgba(139,92,246,0.5);" />
 </div>
 
-<h2 align="center">أهلاً وسهلاً 👋</h2>
+<h2 align="center">Hello, I'm Band-Red 👋</h2>
 
 <p align="center">
-  أنا <strong>Band-Red</strong>، مطور ويب أُجيد بناء واجهات ذكية، مواقع حديثة، وتجارب مستخدم مريحة وسريعة.<br>
-  I am <strong>Band-Red</strong>, a web developer focused on building clean, modern, and user-friendly digital experiences.
+  I build modern web experiences with a strong focus on <strong>clean design</strong>, <strong>performance</strong>, and <strong>secure development</strong>.<br>
+  I enjoy creating elegant interfaces and digital products that are both practical and memorable.
 </p>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 <hr>
 
-<h2 align="center">من أنا</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  أعمل على تطوير حلول رقمية عملية تجمع بين <strong>الأداء</strong> و<strong>الأمان</strong> و<strong>التصميم الهادئ والاحترافي</strong>.<br>
-  I create digital solutions that balance <strong>performance</strong>, <strong>security</strong>, and <strong>clean visual design</strong>.<br>
-  أحب بناء المشاريع التي ليست فقط جميلة، بل سهلة الاستخدام، موثوقة، وقابلة للتطوير.
+  I’m a web developer focused on building solutions that feel smooth, secure, and visually polished.<br>
+  My work combines creativity and technical thinking to deliver interfaces that are fast, professional, and easy to use.<br>
+  I enjoy learning, exploring new tools, and improving the quality of every digital experience I create.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 <hr>
 
-<h2 align="center">ما أركز عليه</h2>
+<h2 align="center">Core Focus</h2>
 
 <table align="center">
   <tr>
@@ -90,7 +90,7 @@
 
 <hr>
 
-<h2 align="center">تواصل معي</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/Band-Red" target="_blank">
